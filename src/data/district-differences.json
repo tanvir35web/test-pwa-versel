@@ -1,0 +1,412 @@
+[
+  {
+    "nameEn": "Dhaka",
+    "nameBn": "ঢাকা",
+    "ifterTimeDifference": 0,
+    "sahariTimeDifference": 0
+  },
+  {
+    "nameEn": "Chittagong",
+    "nameBn": "চট্টগ্রাম",
+    "ifterTimeDifference": -360,
+    "sahariTimeDifference": -300
+  },
+  {
+    "nameEn": "Khulna",
+    "nameBn": "খুলনা",
+    "ifterTimeDifference": 180,
+    "sahariTimeDifference": 240
+  },
+  {
+    "nameEn": "Sylhet",
+    "nameBn": "সিলেট",
+    "ifterTimeDifference": -360,
+    "sahariTimeDifference": -420
+  },
+  {
+    "nameEn": "Rajshahi",
+    "nameBn": "রাজশাহী",
+    "ifterTimeDifference": 420,
+    "sahariTimeDifference": 360
+  },
+  {
+    "nameEn": "Rangpur",
+    "nameBn": "রংপুর",
+    "ifterTimeDifference": 300,
+    "sahariTimeDifference": 240
+  },
+  {
+    "nameEn": "Barishal",
+    "nameBn": "বরিশাল",
+    "ifterTimeDifference": 0,
+    "sahariTimeDifference": 60
+  },
+  {
+    "nameEn": "Mymensingh",
+    "nameBn": "ময়মনসিংহ",
+    "ifterTimeDifference": 0,
+    "sahariTimeDifference": -60
+  },
+  {
+    "nameEn": "Comilla",
+    "nameBn": "কুমিল্লা",
+    "ifterTimeDifference": -240,
+    "sahariTimeDifference": -180
+  },
+  {
+    "nameEn": "Madaripur",
+    "nameBn": "মাদারীপুর",
+    "ifterTimeDifference": 0,
+    "sahariTimeDifference": 60
+  },
+  {
+    "nameEn": "Shariatpur",
+    "nameBn": "শরিয়তপুর",
+    "ifterTimeDifference": 0,
+    "sahariTimeDifference": 60
+  },
+  {
+    "nameEn": "Gaibandha",
+    "nameBn": "গাইবান্ধা",
+    "ifterTimeDifference": 180,
+    "sahariTimeDifference": 60
+  },
+
+  {
+    "nameEn": "Jamalpur",
+    "nameBn": "জামালপুর",
+    "ifterTimeDifference": 120,
+    "sahariTimeDifference": 60
+  },
+  {
+    "nameEn": "Sherpur",
+    "nameBn": "শেরপুর",
+    "ifterTimeDifference": 120,
+    "sahariTimeDifference": 60
+  },
+  {
+    "nameEn": "Tangail",
+    "nameBn": "টাঙ্গাইল",
+    "ifterTimeDifference": 120,
+    "sahariTimeDifference": 60
+  },
+  {
+    "nameEn": "Kurigram",
+    "nameBn": "কুড়িগ্রাম",
+    "ifterTimeDifference": 240,
+    "sahariTimeDifference": 60
+  },
+  {
+    "nameEn": "Sirajganj",
+    "nameBn": "সিরাজগঞ্জ",
+    "ifterTimeDifference": 120,
+    "sahariTimeDifference": 120
+  },
+  {
+    "nameEn": "Faridpur",
+    "nameBn": "ফরিদপুর",
+    "ifterTimeDifference": 120,
+    "sahariTimeDifference": 120
+  },
+  {
+    "nameEn": "Patuakhali",
+    "nameBn": "পটুয়াখালী",
+    "ifterTimeDifference": 0,
+    "sahariTimeDifference": 120
+  },
+  {
+    "nameEn": "Jhalokati",
+    "nameBn": "ঝালকাঠি",
+    "ifterTimeDifference": 0,
+    "sahariTimeDifference": 120
+  },
+  {
+    "nameEn": "Manikganj",
+    "nameBn": "মানিকগঞ্জ",
+    "ifterTimeDifference": 60,
+    "sahariTimeDifference": 120
+  },
+  {
+    "nameEn": "Lalmonirhat",
+    "nameBn": "লালমনিরহাট",
+    "ifterTimeDifference": 300,
+    "sahariTimeDifference": 120
+  },
+  {
+    "nameEn": "Gopalganj",
+    "nameBn": "গোপালগঞ্জ",
+    "ifterTimeDifference": 120,
+    "sahariTimeDifference": 180
+  },
+  {
+    "nameEn": "Bogura",
+    "nameBn": "বগুড়া",
+    "ifterTimeDifference": 240,
+    "sahariTimeDifference": 180
+  },
+  {
+    "nameEn": "Barguna",
+    "nameBn": "বরগুনা",
+    "ifterTimeDifference": 0,
+    "sahariTimeDifference": 180
+  },
+  {
+    "nameEn": "Bagerhat",
+    "nameBn": "বাগেরহাট",
+    "ifterTimeDifference": 120,
+    "sahariTimeDifference": 180
+  },
+  {
+    "nameEn": "Magura",
+    "nameBn": "মাগুরা",
+    "ifterTimeDifference": 240,
+    "sahariTimeDifference": 240
+  },
+  {
+    "nameEn": "Rajbari",
+    "nameBn": "রাজবাড়ী",
+    "ifterTimeDifference": 240,
+    "sahariTimeDifference": 240
+  },
+
+  {
+    "nameEn": "Narail",
+    "nameBn": "নড়াইল",
+    "ifterTimeDifference": 180,
+    "sahariTimeDifference": 240
+  },
+  {
+    "nameEn": "Nilphamari",
+    "nameBn": "নীলফামারী",
+    "ifterTimeDifference": 420,
+    "sahariTimeDifference": 240
+  },
+
+  {
+    "nameEn": "Joypurhat",
+    "nameBn": "জয়পুরহাট",
+    "ifterTimeDifference": 360,
+    "sahariTimeDifference": 240
+  },
+  {
+    "nameEn": "Kushtia",
+    "nameBn": "কুষ্টিয়া",
+    "ifterTimeDifference": 300,
+    "sahariTimeDifference": 300
+  },
+  {
+    "nameEn": "Naogaon",
+    "nameBn": "নওগাঁ",
+    "ifterTimeDifference": 360,
+    "sahariTimeDifference": 300
+  },
+  {
+    "nameEn": "Jessore",
+    "nameBn": "যশোর",
+    "ifterTimeDifference": 300,
+    "sahariTimeDifference": 300
+  },
+  {
+    "nameEn": "Jhenaidah",
+    "nameBn": "ঝিনাইদহ",
+    "ifterTimeDifference": 300,
+    "sahariTimeDifference": 300
+  },
+  {
+    "nameEn": "Natore",
+    "nameBn": "নাটোর",
+    "ifterTimeDifference": 360,
+    "sahariTimeDifference": 300
+  },
+  {
+    "nameEn": "Pabna",
+    "nameBn": "পাবনা",
+    "ifterTimeDifference": 300,
+    "sahariTimeDifference": 300
+  },
+  {
+    "nameEn": "Dinajpur",
+    "nameBn": "দিনাজপুর",
+    "ifterTimeDifference": 420,
+    "sahariTimeDifference": 300
+  },
+  {
+    "nameEn": "Chuadanga",
+    "nameBn": "চুয়াডাঙ্গা",
+    "ifterTimeDifference": 360,
+    "sahariTimeDifference": 360
+  },
+  {
+    "nameEn": "Satkhira",
+    "nameBn": "সাতক্ষীরা",
+    "ifterTimeDifference": 300,
+    "sahariTimeDifference": 360
+  },
+
+  {
+    "nameEn": "Panchagarh",
+    "nameBn": "পঞ্চগড়",
+    "ifterTimeDifference": 480,
+    "sahariTimeDifference": 360
+  },
+  {
+    "nameEn": "Thakurgaon",
+    "nameBn": "ঠাকুরগাঁও",
+    "ifterTimeDifference": 540,
+    "sahariTimeDifference": 360
+  },
+  {
+    "nameEn": "Meherpur",
+    "nameBn": "মেহেরপুর",
+    "ifterTimeDifference": 420,
+    "sahariTimeDifference": 420
+  },
+  {
+    "nameEn": "Chapainawabganj",
+    "nameBn": "চাঁপাইনবাবগঞ্জ",
+    "ifterTimeDifference": 540,
+    "sahariTimeDifference": 480
+  },
+  {
+    "nameEn": "Gazipur",
+    "nameBn": "গাজীপুর",
+    "ifterTimeDifference": 0,
+    "sahariTimeDifference": -60
+  },
+
+  {
+    "nameEn": "Chandpur",
+    "nameBn": "চাঁদপুর",
+    "ifterTimeDifference": -60,
+    "sahariTimeDifference": -60
+  },
+  {
+    "nameEn": "Laxmipur",
+    "nameBn": "লক্ষ্মীপুর",
+    "ifterTimeDifference": 0,
+    "sahariTimeDifference": -60
+  },
+  {
+    "nameEn": "Narayanganj",
+    "nameBn": "নারায়ণগঞ্জ",
+    "ifterTimeDifference": -60,
+    "sahariTimeDifference": -120
+  },
+  {
+    "nameEn": "Kishoreganj",
+    "nameBn": "কিশোরগঞ্জ",
+    "ifterTimeDifference": -120,
+    "sahariTimeDifference": -120
+  },
+  {
+    "nameEn": "Noakhali",
+    "nameBn": "নোয়াখালী",
+    "ifterTimeDifference": -180,
+    "sahariTimeDifference": -120
+  },
+
+  {
+    "nameEn": "Brahmanbaria",
+    "nameBn": "ব্রাহ্মণবাড়িয়া",
+    "ifterTimeDifference": -180,
+    "sahariTimeDifference": -180
+  },
+  {
+    "nameEn": "Cox's Bazar",
+    "nameBn": "কক্সবাজার",
+    "ifterTimeDifference": -420,
+    "sahariTimeDifference": -240
+  },
+  {
+    "nameEn": "Habiganj",
+    "nameBn": "হবিগঞ্জ",
+    "ifterTimeDifference": -240,
+    "sahariTimeDifference": -240
+  },
+
+  {
+    "nameEn": "Sunamganj",
+    "nameBn": "সুনামগঞ্জ",
+    "ifterTimeDifference": -240,
+    "sahariTimeDifference": -300
+  },
+  {
+    "nameEn": "Khagrachari",
+    "nameBn": "খাগড়াছড়ি",
+    "ifterTimeDifference": 0,
+    "sahariTimeDifference": -360
+  },
+  {
+    "nameEn": "Rangamati",
+    "nameBn": "রাঙ্গামাটি",
+    "ifterTimeDifference": -480,
+    "sahariTimeDifference": -360
+  },
+  {
+    "nameEn": "Bandarban",
+    "nameBn": "বান্দরবান",
+    "ifterTimeDifference": -480,
+    "sahariTimeDifference": -360
+  },
+  {
+    "nameEn": "Maulvibazar",
+    "nameBn": "মৌলভীবাজার",
+    "ifterTimeDifference": 0,
+    "sahariTimeDifference": -360
+  },
+
+  {
+    "nameEn": "Munshiganj",
+    "nameBn": "মুন্সিগঞ্জ",
+    "ifterTimeDifference": -60,
+    "sahariTimeDifference": 0
+  },
+  {
+    "nameEn": "Narshingdi",
+    "nameBn": "নরসিংদী",
+    "ifterTimeDifference": -60,
+    "sahariTimeDifference": 0
+  },
+  {
+    "nameEn": "Netrokona",
+    "nameBn": "নেত্রকোণা",
+    "ifterTimeDifference": -60,
+    "sahariTimeDifference": -180
+  },
+  {
+    "nameEn": "Pirojpur",
+    "nameBn": "পিরোজপুর",
+    "ifterTimeDifference": -60,
+    "sahariTimeDifference": 180
+  },
+  {
+    "nameEn": "Bhola",
+    "nameBn": "ভোলা",
+    "ifterTimeDifference": -120,
+    "sahariTimeDifference": 0
+  },
+  {
+    "nameEn": "Lakshmipur",
+    "nameBn": "লক্ষ্মীপুর",
+    "ifterTimeDifference": -120,
+    "sahariTimeDifference": 0
+  },
+  {
+    "nameEn": "Feni",
+    "nameBn": "ফেনী",
+    "ifterTimeDifference": -300,
+    "sahariTimeDifference": -180
+  },
+  {
+    "nameEn": "Moulvibazar",
+    "nameBn": "মৌলভীবাজার",
+    "ifterTimeDifference": -360,
+    "sahariTimeDifference": 0
+  },
+  {
+    "nameEn": "Khagrachhari",
+    "nameBn": "খাগড়াছড়ি",
+    "ifterTimeDifference": -420,
+    "sahariTimeDifference": 0
+  }
+]
