@@ -6,12 +6,12 @@
     {
       "src": "logo1921.png",
       "type": "image/png",
-      "sizes": "112x112"
+      "sizes": "200x200"
     },
     {
       "src": "logo5122.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "412x412"
     }
   ],
   "start_url": ".",
