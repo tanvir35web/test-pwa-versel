@@ -22,7 +22,7 @@ const Timer = ({
       </div>
 
       <div>
-        <p className=" mt-1 rounded-lg bg-docBlue-50 px-3 md:px-4 py-2 text-[14px] font-medium leading-[18.2px] -tracking-[0.7px] md:mb-2 md:mt-3 md:text-[22px] md:leading-[29.05px] ">
+        <p className=" mt-1 rounded-lg bg-docBlue-50 px-2 md:px-4 py-2 text-[14px] font-medium leading-[18.2px] -tracking-[0.7px] md:mb-2 md:mt-3 md:text-[22px] md:leading-[29.05px] ">
           {nextScheduleMassage}{" "}
           <span className="font-bold text-docBlue-900">{nextScheduleTime}</span>
         </p>
